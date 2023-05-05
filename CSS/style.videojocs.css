@@ -1,7 +1,6 @@
 .textoDerecha{
     margin-left: 7%;
     margin-right: 10%;
-<<<<<<< HEAD
     text-align: center;
     font-size: 22px;
     font-family: 'Courier Prime', monospace;
@@ -38,8 +37,3 @@ button {
     border-radius: 4px;
     cursor: pointer;
   }  
-=======
-    font-size: 22px;
-    font-family: 'Courier Prime', monospace;
-}
->>>>>>> 50a1e2ec1ef8f242af08de5037c08e0ab7908415
